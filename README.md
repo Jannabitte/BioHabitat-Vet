@@ -7,6 +7,20 @@ BioHabitat Vet es una aplicación desarrollada en Java que integra conocimientos
 La idea principal nace desde una mirada veterinaria práctica: un profesional puede atender en un mismo día a un perro, un gato o un conejo doméstico, pero también puede enfrentarse a especies silvestres como un zorro culpeo, una iguana, una tortuga terrestre u otros animales que requieran evaluación clínica, ambiental o de manejo. Por esta razón, la aplicación fue pensada para funcionar en ambos contextos.
 
 El sistema permite ingresar datos del paciente, seleccionar la especie, registrar condiciones ambientales, dieta, comportamiento, medicación y observaciones clínicas. Luego, la aplicación analiza la información ingresada y genera una evaluación con parámetros ideales, advertencias, riesgos frecuentes, recomendaciones de dieta y seguimiento, compatibilidad ambiental y nivel de riesgo general.
+## Capturas de demostración
+
+### Interfaz principal
+
+![Interfaz principal de BioHabitat Vet](assets/Bio_Habitat.png)
+
+### Evaluación de especie silvestre
+
+![Evaluación de zorro culpeo en BioHabitat Vet](assets/BioHabitat2.png)
+
+### Reporte HTML generado
+
+![Reporte HTML generado por BioHabitat Vet](assets/HTMLZorroCulpeo.png)
+
 
 ## Objetivo del proyecto
 
