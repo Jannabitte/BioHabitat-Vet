@@ -1,0 +1,22 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java
+*.class
+target/
+
+# Archivos generados por la app
+*.txt
+reporte.html
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
+
+# Configuraciones locales o privadas
+.env
+application-local.properties
+config-local.properties
